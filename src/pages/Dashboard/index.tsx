@@ -4,6 +4,7 @@ import { Text } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 import Icon from 'react-native-vector-icons/Feather';
 
+import { TouchableOpacity } from 'react-native-gesture-handler';
 import { useAuth } from '../../hooks/auth';
 import api from '../../services/api';
 
@@ -58,7 +59,7 @@ const Dashboard: React.FC = () => {
       <Header>
         <HeaderTitle>
           Bem-vindo, {'\n'}
-          <UserName>{user.name}</UserName>
+          <UserName onPress={signOut}>{user.name}</UserName>
         </HeaderTitle>
 
         <ProfileButton onPress={navigateToProfile}>
