@@ -41,9 +41,9 @@
 </p>
 
 <p align="center">
-  <img width="290" height="515" src="./assets/01-Splash.png" alt="Splash">
-  <img width="290" height="515" src="./assets/02-Login.png" alt="Login">
-  <img width="290" height="515" src="./assets/03-SignUp.png" alt="SignUp">
+  <img width="250" height="444" src="./assets/01-Splash.png" alt="Splash">
+  <img width="250" height="444" src="./assets/02-Login.png" alt="Login">
+  <img width="250" height="444" src="./assets/03-SignUp.png" alt="SignUp">
 </p>
 
 ### Features
