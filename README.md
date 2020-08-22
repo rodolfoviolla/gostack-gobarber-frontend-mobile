@@ -21,10 +21,6 @@
   <a href="#">
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=TypeScript">
   </a>
-  
-  <a href="https://github.com/rodolfoviolla/gostack-gobarber-frontend-mobile/blob/master/LICENSE">
-    <img alt="GitHub license" src="https://img.shields.io/github/license/rodolfoviolla/gostack-gobarber-frontend-mobile">
-  </a>
 </p>
 
 <p align="center">
